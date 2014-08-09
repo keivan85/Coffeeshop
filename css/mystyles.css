@@ -1,0 +1,421 @@
+#intro{
+     background-image: url('../css/images/bg.png');
+     background-repeat: repeat;
+}
+#intro img {
+     width: 100%;
+     display: block;
+  
+    margin-top:100px;
+     margin-bottom:100px;
+}
+
+p{
+     font-size:20px;
+     }
+#home{
+     background-image: url('../css/images/2.jpg');
+     background-repeat: repeat;
+}
+
+#home IMG{
+    
+    width: 95%;   
+}
+
+#Coffee {
+     background-image: url('../css/images/2.jpg');
+}
+#Coffee img{
+      width: 95%;
+      
+}
+#ginger img{
+     width: 50%;
+}
+#flavored img {
+     width: 50%;
+}
+#mix-mocha img{
+     width: 50%;
+}
+#tembleque img {
+     width: 50%;
+}
+#easy-iced img{
+     width: 50%;
+}
+#iced-fusion img{
+     width: 50%;
+}
+#iced-mocha img {
+     width: 50%;
+}
+#iced-coffee img{
+     width: 50%;
+}
+#Mocha-coffee img {
+     width: 50%;
+}
+#coffee-shake img{
+     width: 50%;
+}
+#cappuccino-cooler img{
+     width: 50%;
+}
+#Chocolate {
+     background-image: url('../css/images/2.jpg');
+}
+#Chocolate img{
+      width: 95%;
+}
+#Candy-Cane-Cocoa img{
+     width: 50%;
+}
+#Easy-Mexican img {
+     width: 50%;
+}
+#Snow-Flake img{
+     width: 50%;
+}
+#Creamy-Hot img{
+     width: 50%;
+}
+#Mocha-Punch img{
+     width: 50%;
+}
+#Rachel-Chocolate img {
+     width: 50%;
+}
+#Chocolate-Bar img{
+     width: 50%;
+}
+#Lighter-Chocolate img {
+     width: 50%;
+}
+#Thick-Chocolate img {
+     width: 50%;
+}
+#Shakes {
+     background-image: url('../css/images/2.jpg');
+}
+#Shakes img{
+      width: 95%;
+}
+#PPeanut img{
+     width: 50%;
+}
+#MCappuccino img{
+     width: 50%;
+}
+#Paleo-Friendly img{
+     width: 50%;
+}
+#Vanilla-Milkshake img{
+     width: 50%;
+}
+#Chocolate-Mint img {
+     width: 50%;
+}
+#Quick-Berry img {
+     width: 50%;
+}
+#Chocolate-Banana img {
+     width: 50%;
+}
+#Orange-Glorious img{
+     width: 50%;
+}
+#Yummy-Strawberry img {
+     width: 50%;
+}
+#Cocoa-Coffee img{
+     width: 50%;
+}
+#Banana-Ice img{
+     width: 50%;
+}
+#Cafe-Latte-m img{
+     width: 50%;
+}
+
+#Smoothies {
+     background-image: url('../css/images/2.jpg');
+}
+#Smoothies img{
+      width: 95%;
+}
+#All-Fruit img{
+     width: 50%;
+}
+#B-L-s img {
+     width: 50%;
+}
+#Peanut-Butter img {
+     width: 50%;
+}
+#Groovy-Green img {
+     width: 50%;
+}
+#Coconut-Banana img {
+     width: 50%;
+}
+#Strawberry-Peach img {
+     width: 50%;
+}
+#Honey-Bear img{
+     width: 50%;
+}
+#Pre-Packaged img {
+     width: 50%;
+}
+#Mango-Peach img{
+     width: 50%;
+}
+#Strawberry-Pineapple img{
+     width: 50%;
+}
+#Melon-Lime img {
+     width: 50%;
+}
+
+#Tea {
+     background-image: url('../css/images/2.jpg');
+}
+#Tea img{
+      width: 95%;
+}
+#Smooth-Sweet img{
+     width:50%;
+}
+#Good-Ol img{
+     width: 50%;
+}
+#Chai-Latte img {
+     width: 50%;
+}
+#Coffeebar-Chai img {
+     width: 50%;
+}
+#Iced-Tea img {
+     width: 50%;
+}
+#Mint-Tea img{
+     width: 50%;
+}
+#Honey-Lemon img {
+     width: 50%;
+}
+#Sweet-Lime img{
+     width: 50%;
+}
+#Russian-Tea img {
+     width: 50%;
+}
+#Eggnog {
+     background-image: url('../css/images/2.jpg');
+}
+#Eggnog img{
+      width: 95%;
+}
+#eggnogI img{
+     width: 50%;
+}
+#mock-eggnog img{
+     width: 50%;
+}
+#eggnogII img {
+     width: 50%;
+}
+#cooked-eggnog img {
+     width: 50%;
+}
+#eggnogIII img{
+     width: 50%;
+}
+#eggnog-latte img{
+     width: 50%;
+}
+
+#Hot-chocolate {
+     background-image: url('../css/images/2.jpg');
+}
+#Hot-chocolate img{
+      width: 95%;
+}
+#Mayan-Hot img{
+     width: 50%;
+}
+#Creamy-Vegan img{
+     width: 50%;
+}
+#Whipped-Hot img{
+     width: 50%;
+}
+#Gelatinized-Hot img{
+     width: 50%;
+}
+#Hot-Cocoa-Mix img{
+     width: 50%;
+}
+#Hot-Cocoa-Mixj img{
+     width: 50%;
+}
+#Delicious-Vegan img{
+     width: 50%;
+}
+#Hot-Chocolat img{
+     width: 50%;
+}
+#Drew-s-World img{
+     width: 50%;
+}
+#Mocktails {
+     background-image: url('../css/images/2.jpg');
+}
+#Mocktails img{
+      width: 95%;
+}
+#Lime-Cola img {
+     width: 50%;
+}
+#Lusty-Lime img{
+     width: 50%;
+}
+#Apple-Julep img{
+     width: 50%;
+}
+#Alcohol-Free-M img{
+     width: 50%;
+}
+#Italian-Cream img {
+     width: 50%;
+}
+#Cucumber-Punch img{
+     width: 50%;
+}
+#Virgin-Pina img{
+     width: 50%;
+}
+#Cherry-Lime img{
+     width: 50%;
+}
+#The-Arnold img{
+     width: 50%;
+}
+#Alcohol-Free-Mo img{
+     width: 50%;
+}
+ 
+#Lemonade {
+     background-image: url('../css/images/2.jpg');
+}
+#Lemonade img{
+      width: 95%;
+}
+#Ginger-Lemonade img{
+     width: 50%;
+}
+#Watermelon-Lemonade img{
+     width: 50%;
+}
+#Never-Bitter img{
+     width: 50%;
+}
+#Watermelon-Strawberry img{
+     width: 50%;
+}
+#Signature-Sweet img{
+     width: 50%;
+}
+#Easy-Brazilian img{
+     width: 50%;
+}
+#Peppermint-Lemonade img{
+     width: 50%;
+}
+#Old-Fashioned-L img{
+     width: 50%;
+}
+#Slushies {
+     background-image: url('../css/images/2.jpg');
+}
+#Slushies img{
+      width: 95%;
+}
+#Luscious-Slush img{
+     width: 50%;
+}
+#Citrus-Slush img{
+     width: 50%;
+}
+#Coffee-Slush img{
+     width: 50%;
+}
+#Watermelon-Cooler img{
+     width: 50%;
+}
+#Lemon-Berry img{
+     width: 50%;
+}
+#Easy-Orange-S img{
+     width: 50%;
+}
+#Rhubarb-Slush img{
+     width: 50%;
+}
+#Refreshing-Watermelon img{
+     width: 50%;
+}
+#Cool-Watermelon-S img{
+     width: 50%;
+}
+#Orange-Slush img{
+     width: 50%;
+}
+#Orange-Pineapple-S img{
+     width: 50%;
+}
+#Watermelon-Bell img{
+     width: 50%;
+}
+#Frozen-Peach-S img{
+     width:50%;
+}
+#about {
+     position:relative;
+     
+      background-image: url('../css/images/bg.png');
+     background-repeat: repeat-x;
+}
+#about img {
+    width: 100%;
+     display: block;
+}
+
+#slideshow {
+     height: 101px;
+     width: 80.5%;
+    position: absolute;
+    
+}
+
+#slideshow IMG {
+    
+     width: 80.5%;
+    position:absolute;
+    
+    
+    
+    z-index:8;
+    opacity:0.0;
+}
+
+#slideshow IMG.active {
+    z-index:10;
+    opacity:1.0;
+}
+
+#slideshow IMG.last-active {
+    z-index:9;
+}
